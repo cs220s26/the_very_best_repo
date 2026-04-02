@@ -1,0 +1,10 @@
+***Documentation for how to run Hello World Program***
+
+Program features:
+-----------------
+* Prints a hello message to the user
+
+
+Execute the python file through the command line by using the command:
+----------------------------------------------------------------------
+python3 hello.py
